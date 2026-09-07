@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\e-comom-application-ZIVIO-microservices-kfka\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1344216395.index
+965053198.index
+180697393.index
+599992258.index
+2124058819.index
+3998692573.index
